@@ -1,0 +1,8 @@
+{
+  "api.id": "18101865",
+  "datahub.connection.host": "localhost",
+  "datahub.connection.port": "443",
+  "datahub.connection.basepath": "/api/v0/",
+  "datahub.security.clientId": "e2911757",
+  "datahub.security.clientSecret": "e2911757awd"
+}

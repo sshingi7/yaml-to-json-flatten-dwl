@@ -1,0 +1,10 @@
+api:
+    id: '18101865'
+datahub:
+  connection:
+    host: 'localhost'
+    port: '443'
+    basepath: '/api/v0/'
+  security:
+    clientId: 'e2911757'
+    clientSecret: 'e2911757awd'
